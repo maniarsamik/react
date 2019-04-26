@@ -1,0 +1,16 @@
+.navbar-brand {
+    color:#333;
+}
+
+a {
+    color:#aaa;
+    font-weight: 400;
+}
+
+.navbar-brand {font-weight: bold;}
+
+li:last-child .nav-link {
+    padding: 5px;
+}
+
+li:last-child button { margin-left: 10px;}
